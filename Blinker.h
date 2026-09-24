@@ -12,7 +12,7 @@ class Blinker {
         ~Blinker() {};     //Destructor
     
 
-        int handle();
+        int handle(void);
 };
 
 #endif
